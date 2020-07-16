@@ -1,9 +1,9 @@
-Navigating the iOS Interview
+iOS Interview
 ================================== 
-This is a repo containing supplementary materials to the [Navigating the iOS Interview article](https://www.raywenderlich.com/10625296-navigating-the-ios-interview).
+Reference: [Navigating the iOS Interview article](https://www.raywenderlich.com/10625296-navigating-the-ios-interview).
 
-Here you will find:
-- [Behavioral question example.](https://github.com/raywenderlich/ios-interview/blob/master/Behavioral%20Example)
+Checklist:
+- [ ] [Behavioral question example.](https://github.com/raywenderlich/ios-interview/blob/master/Behavioral%20Example)
 - [CS fundamentals question example.](https://github.com/raywenderlich/ios-interview/tree/master/CS%20Fundamentals%20Example)
 - A [practice challenge](https://github.com/raywenderlich/ios-interview/tree/master/Practical%20Example) for you to submit to us for review.
 - [iOS specific questions.](https://github.com/raywenderlich/ios-interview/tree/master/iOS%20Specific%20Questions)
