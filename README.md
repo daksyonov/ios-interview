@@ -12,3 +12,8 @@ iOS Interview
 - [ ] [All of the interview questions](https://github.com/raywenderlich/ios-interview/tree/master/All%20Questions) we've sourced from the iOS community.
 
  <a href="https://airtable.com/shrTixYZjswKMzU6d" target="_blank">All materials (AirTable)</a>.
+
+**To-do:**
+- [ ] - CS Fundamentals Study Notes
+- [ ] - Mix STAR with behaviour preparation grid?
+- [ ] - Practical - my apps

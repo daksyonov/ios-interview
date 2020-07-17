@@ -7,7 +7,6 @@ Here are the higher level topics you might be asked to discuss at your iOS inter
 
 You can also browse through these with in our <a href="https://airtable.com/shrTixYZjswKMzU6d" target="_blank">iOS Interview Airtable Workspace</a>!
 
-![Higher Level Image](../assets/higherLevel.png)
 
 - Dependency Injection
 	- Why? 3rd parties? Testability?

@@ -17,6 +17,8 @@ Getting the answer right is about 10-20% of your mark here, it’s all in your t
 5.  Ask them if your interpretation is correct.
 6.  Rinse and repeat, as needed.
 
+![Process Image](../assets/techinterview_process.png)
+
 #### Example
 1) When you say parentheses, do you just mean parentheses;  `"("`  and  `")"`, or does that include curly braces;  `"{"`  and  `"}"`  and brackets  `"["`  and  `"]"`?
 

@@ -5,8 +5,6 @@ These are all the iOS Specific questions we've gathered from the iOS community. 
 
 You can browse through these with in our <a href="https://airtable.com/shrTixYZjswKMzU6d" target="_blank">iOS Interview Airtable Workspace</a>!
 
-![iOS Specific Image](../assets/iosSpecific.png)
-
 ### iOS Specific
 
 Explain different kinds of dependency injection.
