@@ -107,13 +107,18 @@ Here's an example question and answer for a competency based behavioral intervie
 
 ### 1.2.6. Delegation 
 **Situation:**
-> CA - Andrew - Duty Reports
+I dealt with many rotine tasks to review teammates dily reports. That took a lot of time and hindered the ability to perform tasks on group development.
 
 **Task:**
+I needed a person who would act as a delegate to perform daily reports review. 
 
 **Action:**
+I selected the most experienced teammate and coached it how to review reports for both:
+- technical
+- substantial parts
 
 **Result:**
+Now I save about 1-2 hours a day and can concentrate myself on tasks that will bring CS to more OPEX-ready state.
 
 ### 1.2.7. Prioritization 
 **Situation:**
@@ -126,7 +131,7 @@ Here's an example question and answer for a competency based behavioral intervie
 
 ### 1.2.8. Ethics 
 **Situation:**
-> CA - Misha
+We have the employee who is Roagvardiya alimni
 
 **Task:**
 
@@ -154,13 +159,17 @@ Here's an example question and answer for a competency based behavioral intervie
 
 ### 1.2.11. Eagerness to Learn 
 **Situation:**
-
+I need to gain a lot of knowledge and skills as an aspiring iOS developer. Also i need to boost my persona to drive things further at Clickadilla.
 **Task:**
+Acquire a lot of knowledge and practice the skills to gain experience.
 
 **Action:**
+Actively learning on job by communicating  
+Constantly reading and practicing on iOS.
 
 **Result:**
-
+People see me as a good comminicator on job. I vommunicate in a clear way.
+Every day I learn / practice matters on iOS development.
 ### 1.2.12. Problem Solving 
 **Situation:**
 
@@ -181,10 +190,12 @@ Here's an example question and answer for a competency based behavioral intervie
 
 ### 1.2.14. Willingness to Change 
 **Situation:**
+Uprava
 
 **Task:**
-
+Step out of shit / find myself
 **Action:**
+PwC (basic skills) -> iOS (my)
 
 **Result:**
 
@@ -199,7 +210,7 @@ Here's an example question and answer for a competency based behavioral intervie
 
 ### 1.2.16. Teamwork 
 **Situation:**
-
+CA minus balance case: Anton + Alsu
 **Task:**
 
 **Action:**
@@ -208,6 +219,7 @@ Here's an example question and answer for a competency based behavioral intervie
 
 ### 1.2.17. Mentoring 
 **Situation:**
+Misha + Andrey CA
 
 **Task:**
 
@@ -217,6 +229,7 @@ Here's an example question and answer for a competency based behavioral intervie
 
 ### 1.2.18. Organization 
 **Situation:**
+CA - calendar + urgent shifts
 
 **Task:**
 
@@ -226,7 +239,7 @@ Here's an example question and answer for a competency based behavioral intervie
 
 ### 1.2.19. Strategy
 **Situation:**
-
+Learninhr Path: iOS
 **Task:**
 
 **Action:**
@@ -253,7 +266,7 @@ Here's an example question and answer for a competency based behavioral intervie
 
 ### 1.2.22. Ambition 
 **Situation:**
-
+Work in big company
 **Task:**
 
 **Action:**
@@ -262,7 +275,7 @@ Here's an example question and answer for a competency based behavioral intervie
 
 ### 1.2.23. Motivation 
 **Situation:**
-
+Become an iOS Developer
 **Task:**
 
 **Action:**
@@ -271,6 +284,7 @@ Here's an example question and answer for a competency based behavioral intervie
 
 ### 1.2.24. Giving Feedback 
 **Situation:**
+CA - guys
 
 **Task:**
 
@@ -280,11 +294,11 @@ Here's an example question and answer for a competency based behavioral intervie
 
 ### 1.2.25. Receiving Feedback
 **Situation:**
-
+PwC / Alsu 
 **Task:**
 
 **Action:**
-
+Notes
 **Result:**
 
 ### 1.2.26. Perseverance
@@ -316,7 +330,7 @@ Here's an example question and answer for a competency based behavioral intervie
 
 ### 1.2.29. Bias for Action 
 **Situation:**
-
+Left pwc fod school 21
 **Task:**
 
 **Action:**
